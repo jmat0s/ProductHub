@@ -15,11 +15,22 @@ This project, ProductHub, is designed as a dynamic and robust product catalog ma
 
 💻 Technologies Used
 
-Stack	Technology	Description
-Frontend	React	The core library for building the user interface.
-Build Tool	Vite	Fast development server and build tool.
-Styling	Chakra UI	A simple, modular, and accessible component library for React.
-Navigation	React Router	Declarative routing for the single-page application (SPA).
-Backend	Node.js & Express	Runtime environment and minimal, flexible Node.js web application framework for the RESTful API.
-Database	MongoDB	A scalable, document-based NoSQL database.
-ORM/ODM	Mongoose	Provides schema-based solution to model application data for MongoDB.
+The application is a full-stack project divided into two main components:
+
+Frontend Stack (User Interface)
+
+    React: The core library for building the user interface.
+
+    Vite: Used as the fast development server and build tool.
+
+    Chakra UI: Provides a simple, modular, and accessible component library for styling and interface components.
+
+    React Router: Handles declarative routing and navigation within the Single Page Application (SPA).
+
+Backend Stack (API and Data Persistence)
+
+    Node.js & Express: Node.js is the runtime environment, and Express is the minimal, flexible framework used to build the RESTful API.
+
+    MongoDB: The chosen document-based NoSQL database for flexible data storage.
+
+    Mongoose: Serves as the Object Data Modeling (ODM) library, providing a schema-based solution to model application data for MongoDB.
