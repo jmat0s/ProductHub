@@ -10,11 +10,8 @@ This project, ProductHub, is designed as a dynamic and robust product catalog ma
 
     Product Details: Detailed view for each product, including descriptions, specifications, and images.
 
-    Search and Filter: Robust functionality to search products by name, category, or other key attributes.
+    CRUD Operations: Full Create, Read, Update, and Delete capabilities for managing the product inventory.
 
-    CRUD Operations: Full Create, Read, Update, and Delete capabilities for managing the product inventory (requires appropriate user roles/API keys).
-
-    Responsive Design: Optimized user interface for desktop and mobile devices.
 
 💻 Technologies Used
 
